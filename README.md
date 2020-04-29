@@ -26,4 +26,11 @@ An overview of
 ### Team Members
 ----------------------------------
 
-List of team member names and email IDs
+1. [Kumar Ankit](https://github.com/Masters-Akt)
+	Email: 1905537@kiit.ac.in
+2. [Manraj Singh](https://github.com/manraj1729)
+	Email: 1905539@kiit.ac.in
+3. Abhas Kumar
+	Email: 1905513@kiit.ac.in
+4. Pragyanand Tripathi
+	Email: 1905547@kiit.ac.in
