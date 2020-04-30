@@ -10,6 +10,7 @@ The participants are required to use this repository as a template and create a 
 The team tried to solve the ever increasing problem of traffic on road and carbon emission. Through this project we aim at reducing traffic jams and the amount of carbon emission in the environment.
 
 * What is the proposed solution
+
 To solve the problems of increasing traffic jams and carbon emissions, we aim to fulfil the following-
 1. Information on tips of people about the statuesquo of traffic
 2. Suggesting alternatives to driving at times
