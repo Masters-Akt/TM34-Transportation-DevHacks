@@ -20,10 +20,20 @@ To solve the problems of increasing traffic jams and carbon emissions, we aim to
 
 ### Solution Description
 ----------------------------------
+LAYOUT:
+1. On installation first signing in either by e-mail, Facebook or phone-number.
+2. Registering of “Close One’s” numbers (1-3 entries) for later use.
+3. By using location and Bluetooth application will access database and provide user with information of people near him and by accessing destination it will filter out persons sharing out same destination.
+4. By selecting a ride driver person registering as pilot shall be notified and a common point on path nearest to both of them shall be conveyed to them.
+5. One can verify the pilot’s identity by vehicle number and OTP sent out to him and rider. 
+6. Rider’s identity can be confirmed by any government issued/office issued/school issued identity card number.
+7. Copy of both pilot’s and rider’s details are sent to “close one’s” number via WhatsApp or message as selected by user. 
+8. On completion of ride all involving parties shall receive a notification of completion when marked by both sides.
+
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+provided in presentation.
 
 #### Technical Description
 
