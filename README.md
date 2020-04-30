@@ -30,7 +30,7 @@ An overview of
 	Email: 1905537@kiit.ac.in
 2. [Manraj Singh](https://github.com/manraj1729)
 	Email: 1905539@kiit.ac.in
-3. Abhas Kumar
+3. [Abhas Kumar](https://github.com/KrAbhas)
 	Email: 1905513@kiit.ac.in
-4. Pragyanand Tripathi
+4. [Pragyanand Tripathi](https://github.com/Hunter-DIII)
 	Email: 1905547@kiit.ac.in
